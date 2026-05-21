@@ -3,13 +3,20 @@
 Sou um Técnico em Informática em formação pelo Senac, atualmente focado em **Desenvolvimento Python** e **Hardware Hacking**. Meu objetivo é criar soluções eficientes enquanto construo uma base sólida para atuar em Segurança Ofensiva (Red Team).
 
 ### 🛠 Tecnologias & Ferramentas
-* **Linguagens:** Python (Foco atual).
-* **Interesses:** Automação, Scripting, Pentest, Hardware Hacking.
-* **Estudando:** Estruturas de dados em Python e Redes de Computadores.
+* **Linguagens:** Python.
+* **Aplicações Práticas:** Consumo de APIs REST (JSON), Automação de Processos (Manipulação de PDF/Docx) e Lógica de Controle.
+* **Sistemas & Infraestrutura:** Active Directory (GPOs e Permissões), Windows Server, Linux (Terminal) e Protocolos de Rede (TCP/IP, DHCP).
+* **Interesses:** Automação, Scripting, Pentest, Hardware Hacking e Infraestrutura de Redes.
+* **Estudando:** Estruturas de dados em Python, Desenvolvimento de Ferramentas Ofensivas e Redes de Computadores.
 
-### 🎓 Certificações
+### 🏆 Conquistas & Destaques
+* **3º Lugar no Senac X:** Liderança técnica no desenvolvimento do projeto web **FindPlayer**, demonstrando capacidade de gestão, trabalho em equipe e entrega de soluções sob pressão.
+
+### 🎓 Certificações & Cursos
 ![Cisco](https://img.shields.io/badge/Cisco-Python_Essentials_1-blue?logo=cisco&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-Intro_to_Cybersecurity-green?logo=cisco&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-Packet_Tracer_Beginner-orange?logo=cisco&logoColor=white)
+* 📖 **Python do Zero ao Hacking (Automação)** – Ackerdemy (Em curso)
 
 ### 📈 Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jhader-DevSec&show_icons=true&theme=dark)

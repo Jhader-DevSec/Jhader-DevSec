@@ -12,6 +12,9 @@ Sou um Técnico em Informática em formação pelo Senac, atualmente focado em *
 ### 🏆 Conquistas & Destaques
 * **3º Lugar no Senac X:** Liderança técnica no desenvolvimento do projeto web **FindPlayer**, demonstrando capacidade de gestão, trabalho em equipe e entrega de soluções sob pressão.
 
+### 📂 Projetos em Destaque
+* **🍢 [Espetinho do Edir — Sistema de Gestão Comercial e PDV](https://github.com/Jhader-DevSec/Projeto-integrador):** Sistema completo focado em operação comercial real. Desenvolvido em **Flask** com arquitetura modular (**Blueprints**), gerenciamento reativo de estoque em memória com JavaScript Vanilla no front-end, e controle de acesso seguro por sessões. *(Repositório público e aberto para contribuições!)*
+
 ### 🎓 Certificações & Cursos
 ![Cisco](https://img.shields.io/badge/Cisco-Python_Essentials_1-blue?logo=cisco&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-Intro_to_Cybersecurity-green?logo=cisco&logoColor=white)

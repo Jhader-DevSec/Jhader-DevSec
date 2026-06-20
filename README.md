@@ -27,6 +27,6 @@ Cisco Introduction to Cybersecurity
 
 Cisco Packet Tracer Beginner
 
-### Contato
+### Contact
 
 LinkedIn → linkedin.com/in/jhader-augusto

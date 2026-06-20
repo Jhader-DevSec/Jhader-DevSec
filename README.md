@@ -15,11 +15,9 @@ Linux • Active Directory • Windows Server • TCP/IP
 
 ### Destaques
 
-🥉 3º Lugar — Senac X (FindPlayer)
+     3º Lugar — Senac X (FindPlayer)
 
-🍢 Espetinho do Edir — Sistema de Gestão Comercial e PDV
-
-🛡️ Python for Security — Estudos e ferramentas de Cybersecurity
+     Espetinho do Edir — Sistema de Gestão Comercial e PDV
 
 ### Certificações
 

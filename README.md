@@ -1,27 +1,34 @@
 # Jhader Augusto
 
-Técnico em Informática em formação pelo Senac e desenvolvedor Python em constante evolução.
+```python
+class Jhader:
+    role = "Python Developer"
+    focus = ["Backend", "Cybersecurity", "Automation"]
+    currently_learning = ["Django", "Linux", "Networks"]
+```
 
-Tenho interesse especial por desenvolvimento back-end, automação de processos e segurança da informação, buscando compreender não apenas como sistemas são construídos, mas também como podem ser protegidos, monitorados e aprimorados.
+### Tech Stack
 
-Atualmente desenvolvo projetos utilizando Python e Flask, enquanto aprofundo conhecimentos em Django, Linux, redes de computadores e segurança ofensiva.
+Python • Flask • Django • HTML • CSS • JavaScript
 
-Meu foco é transformar estudo em prática através da construção de soluções reais, documentação técnica e aprendizado contínuo.
+Linux • Active Directory • Windows Server • TCP/IP
 
-## Principais Tecnologias
+### Destaques
 
-Python • Flask • Django • HTML • CSS • JavaScript • Linux • Active Directory • Redes TCP/IP
+🥉 3º Lugar — Senac X (FindPlayer)
 
-## Certificações
+🍢 Espetinho do Edir — Sistema de Gestão Comercial e PDV
 
-* Cisco Python Essentials 1
-* Cisco Introduction to Cybersecurity
-* Cisco Packet Tracer Beginner
+🛡️ Python for Security — Estudos e ferramentas de Cybersecurity
 
-## Projeto em Destaque
+### Certificações
 
-Espetinho do Edir — Sistema de Gestão Comercial e PDV desenvolvido em Flask com arquitetura modular, controle de estoque e gerenciamento operacional.
+Cisco Python Essentials 1
 
-## Contato
+Cisco Introduction to Cybersecurity
 
-LinkedIn: linkedin.com/in/jhader-augusto
+Cisco Packet Tracer Beginner
+
+### Contato
+
+LinkedIn → linkedin.com/in/jhader-augusto
